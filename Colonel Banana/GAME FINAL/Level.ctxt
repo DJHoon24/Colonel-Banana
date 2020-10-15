@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=score\ gold
+comment1.target=Level(Score,\ Gold)
+comment2.params=player1\ x\ y
+comment2.target=void\ advancePlayer1(Player1,\ int,\ int)
+comment3.params=player2\ x\ y
+comment3.target=void\ advancePlayer2(Player2,\ int,\ int)
+comment4.params=
+comment4.target=Score\ getScore()
+comment5.params=
+comment5.target=Gold\ getGold()
+numComments=6

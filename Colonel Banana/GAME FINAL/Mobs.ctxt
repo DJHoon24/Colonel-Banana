@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mobs
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mobs\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ hitTheEdge()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Mobs\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ bounceAtEdge()
+comment3.params=start\ end
+comment3.target=int\ getRandomNumber(int,\ int)
+numComments=4
