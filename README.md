@@ -10,9 +10,9 @@ Game inspired by a childhood favorite "BoxHeads" and was crafted using Java Game
 
 ## What is Colonel-Banana?
 Waves of monkeys spawn and you must feed them fruit and avoid getting hit!
-<img src= "https://imgur.com/a/bgTuuMr" alt= "Colonel Banana Gameplay">
+![](https://i.imgur.com/W0ubBdX.png)
 
-Build up Gold to use it in the shop and upgrade your character!
+Build up Gold by feeding the monkeys and use it in the shop and upgrade your character!
 <img src= "Colonel%20Banana/GAME%20FINAL/images/shop.png" alt= "Shop">
 
 ## Two Player Functionality!
