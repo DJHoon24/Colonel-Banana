@@ -6,7 +6,7 @@
 
 Colonel Banana is 2D wave clear game that has single/two player functionality!
 
-Game inspired by a childhood favorite "BoxHeads" and was crafted using Java Game Library Greenfoot.
+Game inspired by a childhood favorite "BoxHeads" and was crafted using Java educational software Greenfoot.
 
 ## What is Colonel-Banana?
 Waves of monkeys spawn and you must feed them fruit and avoid getting hit!
