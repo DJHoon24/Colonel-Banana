@@ -12,7 +12,7 @@ public class Level1M extends Level
     GreenfootSound victory = new GreenfootSound("victory.mp3");
     public Level1M(){   
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(new Score(0), new Gold(0));         
+        super(new Score(0), new Gold(1000));         
         prepare();
     }
 

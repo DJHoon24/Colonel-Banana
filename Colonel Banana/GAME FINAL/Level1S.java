@@ -25,7 +25,7 @@ public class Level1S extends Level
     {
         //Spawn Gold and Score
         score = new Score(0);
-        gold = new Gold(30);
+        gold = new Gold(3000);
         addObject(gold, 1525, 50);
         addObject(score, 1525, 25);
         //Spawn Player1
